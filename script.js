@@ -1,3 +1,4 @@
+alert("Dùng laptop sẽ vui hơn 🎄🎅🎁");
 const showButton = document.getElementById("showButton");
 const christmasMessage = document.getElementById("as");
 
